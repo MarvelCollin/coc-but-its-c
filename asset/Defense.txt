@@ -1,0 +1,13 @@
+Defense
+
+This game provided some defenses you can buy in the shop. The defenses can
+be used to protect the village from the attackers. But remember that the 
+defenses are not free and need a specific minimum level. so prepare your 
+gold and levels for it.
+
+List of defenses
+- Cannon
+- Archer Tower
+- Tesla
+- XK-Bow
+- Laser

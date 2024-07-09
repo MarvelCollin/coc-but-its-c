@@ -1,0 +1,14 @@
+Attack
+
+You can attack two types of villages: Eller villages and other 
+player villages. for each village type, gives you some reward
+that you can use to develop more troops and defenses. but, if 
+you choose to attack the Eller's, you won't get any trophy from
+the attack and get more gold than attacking other 
+players' villages and otherwise, if you attack other player's 
+villages you can get the trophy and less gold than attacking 
+the Eller's. But, if you lose the attack, you can lose some 
+trophies too. so you must be wise to choose a village to be
+attacked.
+
+

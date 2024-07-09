@@ -1,0 +1,14 @@
+Troops
+
+There are 4 types of troops in this game. That is Melee, Ranged,
+and Destroyer. the troops can be used to attack another village.
+The troops are available in the attack base section where you can 
+train them. but training the troops needs time so you don't get 
+addicted to this game. And these troops have minimum level 
+requirements too. so, you have to consider this when you want to 
+train troops.
+
+List of Troops by types
+Melee     -> Barbarian
+Ranged    -> Archer
+Destroyer -> King Jeruk

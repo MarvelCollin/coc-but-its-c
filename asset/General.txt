@@ -1,0 +1,16 @@
+General
+
+This game is about how you lead and manage your village, collect resources, 
+and become the number 1. You are provided with many features that'll make 
+you enjoy while playing this game. There are some mechanics that you need 
+to know before playing this game.
+
+You'll live in a village in a maze that is designed to make your village 
+more protected since the attacker must determine to travel the maze and
+your defense can attack those attackers. 
+
+But you can attack another village too with the troops provided by this
+game. but there's a troop capacity that your camp can handle so you must 
+be wise to manage your troop.
+
+If you want to know more, you can click the buttons on the sidebar.
