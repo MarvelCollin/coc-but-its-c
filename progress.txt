@@ -1,0 +1,6 @@
+- Clickable
+- Prim + Initialize Building
+- Merge sort (dummy data)
+- Max Heap (dummy data)
+- Menus
+- Quick sort (dummy data)
